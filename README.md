@@ -7,7 +7,7 @@ At Sysmap, I have worked as a consultant at [Nextel](http://bolt.nextel.com.br) 
 
 - 🌱 I’m currently learning: How to build iOS apps with Swift (I'm doing [iOS & Swift - The Complete iOS App Development Bootcamp] at Udemy(https://www.udemy.com/course/ios-13-app-development-bootcamp)).
 - 🤔 What I want to learn next: Improving my React with [Advanced React and Redux](https://www.udemy.com/course/react-redux-tutorial).
-- 📫 How to reach me: `eduardomonteiro64@pm.me`
+- 📫 How to reach me: `eduardomonteiro64@gmail.com`
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Skyrim is my favorite game. 🎮
 
