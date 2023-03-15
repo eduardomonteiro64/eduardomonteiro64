@@ -5,7 +5,7 @@ At Sysmap, I have worked as a consultant at [Nextel](http://bolt.nextel.com.br) 
 
 ## About Me
 
-- 🌱 I’m currently learning: How to build iOS apps with Swift (I'm doing [iOS & Swift - The Complete iOS App Development Bootcamp] at Udemy(https://www.udemy.com/course/ios-13-app-development-bootcamp)).
+- 🌱 I’m currently learning: React development in 2023  (I'm doing [Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)] at Udemy(https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)).
 - 🤔 What I want to learn next: Improving my React with [Advanced React and Redux](https://www.udemy.com/course/react-redux-tutorial).
 - 📫 How to reach me: `eduardomonteiro64@icloud.com`
 - 😄 Pronouns: he/him
@@ -15,8 +15,8 @@ At Sysmap, I have worked as a consultant at [Nextel](http://bolt.nextel.com.br) 
 
 - [React](https://reactjs.org)
 - [Redux](https://redux.js.org)
-- [Next.js](https://nextjs.org)
-- [Node](https://nodejs.org/en/)
+- [NextJS](https://nextjs.org)
+- [NodeJS](https://nodejs.org/en/)
 - [MUI](https://mui.com)
 - [Ant Design](https://ant.design)
 - [Storybook](https://storybook.js.org)
